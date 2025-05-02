@@ -3,8 +3,10 @@ Content Singh: AI-Powered Content Copilot
 1. Project Overview
 Project Name: Content Singh: AI-Powered Content Copilot
 Description: Empowering local language creators and inclusive digital expression through AI.
-Website URL: [Coming Soon]
-Repository Link: [To be added]
+
+Website URL: (https://studio--contentcraft-ai-14nqd.us-central1.hosted.app/)
+Repository Link: (https://github.com/CHIRAYU-365/Content_Singh.git)
+
 Tech Stack:
 •	Frontend: React.js, Tailwind CSS
 •	Backend: TypeScript, Node.js
